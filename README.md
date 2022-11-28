@@ -32,5 +32,5 @@
 1. Go to File -> Settings
 2. Select " Python Interpreter " on the left menu bar of settings, select "Python Interpreter."
 3. Click the "+" icon over the list of packages.
-4. Search for "lxml."```
+4. Search for "lxml."
 5. Click "Install Package" on the bottom left of the "Available Package" window.
